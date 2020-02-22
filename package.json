@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "bin": "cli.js",
+  "bin": {
+    "gen-asap-keys": "./cli.js"
+  },
   "scripts": {},
   "author": "",
   "license": "ISC",
