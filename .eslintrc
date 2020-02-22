@@ -1,0 +1,22 @@
+{
+  "extends": "airbnb-base",
+  "rules": {
+    "max-len": [
+      2,
+      120,
+      2
+    ],
+    "comma-dangle": [
+      2,
+      "never"
+    ],
+    "arrow-body-style": 0,
+    "object-curly-spacing": 0,
+    "global-require": 0,
+    "new-cap": 0,
+    "no-underscore-dangle": 0
+  },
+  "env": {
+    "jest": true
+  }
+}

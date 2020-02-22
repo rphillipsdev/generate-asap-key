@@ -1,0 +1,16 @@
+{
+  "name": "@platformly/generate-asap-key",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "cli.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.624.0",
+    "meow": "^6.0.1",
+    "node-rsa": "^1.0.7",
+    "uuid": "^3.4.0"
+  }
+}
